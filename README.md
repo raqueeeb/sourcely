@@ -1,5 +1,7 @@
 # Sourcely
 
+> 📘 **Case study:** [raqueeb.dev/projects/sourcely](https://raqueeb.dev/projects/sourcely) — architecture, stack and implementation notes.
+
 **AI-native B2B industrial product discovery.**
 Buyers describe the problem in their own words. Sourcely resolves it into a
 structured specification, retrieves and ranks matching products, explains the
